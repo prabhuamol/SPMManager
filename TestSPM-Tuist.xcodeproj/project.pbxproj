@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -304,7 +304,7 @@
 		0B829EDE411AFBFE376E8B43 /* Package450.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Package450.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D261FA5899C04ECE5DCDCC1 /* Package422.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Package422.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D349BDF524D6F148FE7C67A /* Package425.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Package425.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		0DAB73F125387930E05A9956 /* TargetX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TargetX.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DAB73F125387930E05A9956 /* SPMTuist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPMTuist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E3A508984B69E872C3802F8 /* Package465.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Package465.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EE09C687A8DF9A2CE523BF6 /* Package484.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Package484.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		100161FF40F24E9B3A3FB9B4 /* Package456.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Package456.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -592,7 +592,7 @@
 				6823E5B3BA15C238EDA59E00 /* Package498.framework */,
 				151ABCC51222E90387AB7D87 /* Package499.framework */,
 				4568FABD4A7E7A3A94C331C7 /* Package500.framework */,
-				0DAB73F125387930E05A9956 /* TargetX.app */,
+				0DAB73F125387930E05A9956 /* SPMTuist.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -648,7 +648,7 @@
 			);
 			name = TargetX;
 			productName = TargetX;
-			productReference = 0DAB73F125387930E05A9956 /* TargetX.app */;
+			productReference = 0DAB73F125387930E05A9956 /* SPMTuist.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -658,8 +658,6 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
-				TargetAttributes = {
-				};
 			};
 			buildConfigurationList = 07CFE622ABD5DF28E5D1D69D /* Build configuration list for PBXProject "TestSPM-Tuist" */;
 			compatibilityVersion = "Xcode 14.0";
@@ -766,6 +764,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = SZ3RAKSN9J;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Derived/InfoPlists/TargetX-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -773,15 +772,12 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = io.tuist.targetX;
-				PRODUCT_NAME = TargetX;
+				PRODUCT_NAME = SPMTuist;
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = (
-					"$(inherited)",
-					DEBUG,
-				);
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
 				SWIFT_COMPILATION_MODE = singlefile;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -847,6 +843,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = SZ3RAKSN9J;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Derived/InfoPlists/TargetX-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -854,7 +851,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = io.tuist.targetX;
-				PRODUCT_NAME = TargetX;
+				PRODUCT_NAME = SPMTuist;
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
