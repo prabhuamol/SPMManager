@@ -1891,7 +1891,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "02EECBF9464E7B5899BBD952"
-               BuildableName = "TargetX.app"
+               BuildableName = "SPMTuist.app"
                BlueprintName = "TargetX"
                ReferencedContainer = "container:TestSPM-Tuist.xcodeproj">
             </BuildableReference>
