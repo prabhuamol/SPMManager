@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TestSPM-Tuist.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:libraries"
+      name = "libraries">
+      <FileRef
+         location = "group:Package367/Package367.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package368/Package368.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package369/Package369.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package370/Package370.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package371/Package371.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package372/Package372.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package373/Package373.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package374/Package374.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package375/Package375.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package376/Package376.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package377/Package377.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package378/Package378.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package379/Package379.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package380/Package380.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package381/Package381.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package382/Package382.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package383/Package383.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package384/Package384.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package385/Package385.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package386/Package386.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package387/Package387.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package388/Package388.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package389/Package389.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package390/Package390.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package391/Package391.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package392/Package392.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package393/Package393.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package394/Package394.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package395/Package395.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package396/Package396.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package397/Package397.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package398/Package398.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package399/Package399.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package400/Package400.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package401/Package401.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package402/Package402.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package403/Package403.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package404/Package404.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package405/Package405.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package406/Package406.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package407/Package407.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package408/Package408.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package409/Package409.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package410/Package410.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package411/Package411.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package412/Package412.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package413/Package413.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package414/Package414.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package415/Package415.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package416/Package416.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package417/Package417.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package418/Package418.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package419/Package419.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package420/Package420.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package421/Package421.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package422/Package422.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package423/Package423.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package424/Package424.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package425/Package425.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package426/Package426.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package427/Package427.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package428/Package428.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package429/Package429.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package430/Package430.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package431/Package431.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package432/Package432.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package433/Package433.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package434/Package434.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package435/Package435.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package436/Package436.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package437/Package437.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package438/Package438.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package439/Package439.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package440/Package440.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package441/Package441.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package442/Package442.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package443/Package443.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package444/Package444.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package445/Package445.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package446/Package446.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package447/Package447.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package448/Package448.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package449/Package449.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package450/Package450.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package451/Package451.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package452/Package452.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package453/Package453.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package454/Package454.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package455/Package455.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package456/Package456.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package457/Package457.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package458/Package458.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package459/Package459.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package460/Package460.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package461/Package461.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package462/Package462.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package463/Package463.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package464/Package464.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package465/Package465.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package466/Package466.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package467/Package467.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package468/Package468.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package469/Package469.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package470/Package470.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package471/Package471.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package472/Package472.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package473/Package473.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package474/Package474.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package475/Package475.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package476/Package476.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package477/Package477.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package478/Package478.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package479/Package479.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package480/Package480.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package481/Package481.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package482/Package482.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package483/Package483.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package484/Package484.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package485/Package485.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package486/Package486.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package487/Package487.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package488/Package488.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package489/Package489.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package490/Package490.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package491/Package491.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package492/Package492.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package493/Package493.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package494/Package494.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package495/Package495.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package496/Package496.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package497/Package497.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package498/Package498.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package499/Package499.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Package500/Package500.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

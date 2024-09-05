@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1010"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B42D1E4FD0BAE2B8269B82DE"
+               BuildableName = "Package367.framework"
+               BlueprintName = "Package367"
+               ReferencedContainer = "container:libraries/Package367/Package367.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C9DAD08D4F7A4C48F2DCD683"
+               BuildableName = "Package368.framework"
+               BlueprintName = "Package368"
+               ReferencedContainer = "container:libraries/Package368/Package368.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F87E0901362DF9A3481A2D88"
+               BuildableName = "Package369.framework"
+               BlueprintName = "Package369"
+               ReferencedContainer = "container:libraries/Package369/Package369.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "583B9D873F6D35238F67A0B7"
+               BuildableName = "Package370.framework"
+               BlueprintName = "Package370"
+               ReferencedContainer = "container:libraries/Package370/Package370.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4A48D2657BBD06E6B2569926"
+               BuildableName = "Package371.framework"
+               BlueprintName = "Package371"
+               ReferencedContainer = "container:libraries/Package371/Package371.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "461B54CD95A9A8677724E70D"
+               BuildableName = "Package372.framework"
+               BlueprintName = "Package372"
+               ReferencedContainer = "container:libraries/Package372/Package372.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CEB268DC8026CB5D84008E36"
+               BuildableName = "Package373.framework"
+               BlueprintName = "Package373"
+               ReferencedContainer = "container:libraries/Package373/Package373.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C4256707FA8E1B31498724CF"
+               BuildableName = "Package374.framework"
+               BlueprintName = "Package374"
+               ReferencedContainer = "container:libraries/Package374/Package374.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2F47B090917303A501EB0839"
+               BuildableName = "Package375.framework"
+               BlueprintName = "Package375"
+               ReferencedContainer = "container:libraries/Package375/Package375.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7F8E16794AD2A1DDD5D00E88"
+               BuildableName = "Package376.framework"
+               BlueprintName = "Package376"
+               ReferencedContainer = "container:libraries/Package376/Package376.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C11EA9C62E316325ECCF0ED1"
+               BuildableName = "Package377.framework"
+               BlueprintName = "Package377"
+               ReferencedContainer = "container:libraries/Package377/Package377.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "72CBC7E006D9EF3798AA7755"
+               BuildableName = "Package378.framework"
+               BlueprintName = "Package378"
+               ReferencedContainer = "container:libraries/Package378/Package378.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D65C59E3D2B9E84241F631C8"
+               BuildableName = "Package379.framework"
+               BlueprintName = "Package379"
+               ReferencedContainer = "container:libraries/Package379/Package379.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "79D94CA9B259AC76702DDFA5"
+               BuildableName = "Package380.framework"
+               BlueprintName = "Package380"
+               ReferencedContainer = "container:libraries/Package380/Package380.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "26F324FC1DBB203CFA6BB4DB"
+               BuildableName = "Package381.framework"
+               BlueprintName = "Package381"
+               ReferencedContainer = "container:libraries/Package381/Package381.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "73308C23911F1228ADEF9655"
+               BuildableName = "Package382.framework"
+               BlueprintName = "Package382"
+               ReferencedContainer = "container:libraries/Package382/Package382.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "748523F8F4852F3E55069757"
+               BuildableName = "Package383.framework"
+               BlueprintName = "Package383"
+               ReferencedContainer = "container:libraries/Package383/Package383.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43E197197E9CB49F13D732DE"
+               BuildableName = "Package384.framework"
+               BlueprintName = "Package384"
+               ReferencedContainer = "container:libraries/Package384/Package384.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "51A58C6DE38046CC2F2670EF"
+               BuildableName = "Package385.framework"
+               BlueprintName = "Package385"
+               ReferencedContainer = "container:libraries/Package385/Package385.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "918121E3C3FB15429CE3CD2D"
+               BuildableName = "Package386.framework"
+               BlueprintName = "Package386"
+               ReferencedContainer = "container:libraries/Package386/Package386.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5A38F679FA07473DEB6B007D"
+               BuildableName = "Package387.framework"
+               BlueprintName = "Package387"
+               ReferencedContainer = "container:libraries/Package387/Package387.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6BB549165437A1A3FEB919CF"
+               BuildableName = "Package388.framework"
+               BlueprintName = "Package388"
+               ReferencedContainer = "container:libraries/Package388/Package388.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1364F15805B21CAA4887F49E"
+               BuildableName = "Package389.framework"
+               BlueprintName = "Package389"
+               ReferencedContainer = "container:libraries/Package389/Package389.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "13199AF6132A1DA65C25550C"
+               BuildableName = "Package390.framework"
+               BlueprintName = "Package390"
+               ReferencedContainer = "container:libraries/Package390/Package390.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "104AE6E7344536C5744386D2"
+               BuildableName = "Package391.framework"
+               BlueprintName = "Package391"
+               ReferencedContainer = "container:libraries/Package391/Package391.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "14114E36EE6F8D1FB14BA565"
+               BuildableName = "Package392.framework"
+               BlueprintName = "Package392"
+               ReferencedContainer = "container:libraries/Package392/Package392.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DAC913F180C85D620E6AF69B"
+               BuildableName = "Package393.framework"
+               BlueprintName = "Package393"
+               ReferencedContainer = "container:libraries/Package393/Package393.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7771CDD9DB91DB207C907325"
+               BuildableName = "Package394.framework"
+               BlueprintName = "Package394"
+               ReferencedContainer = "container:libraries/Package394/Package394.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4C563C3E9E868C47C923DC62"
+               BuildableName = "Package395.framework"
+               BlueprintName = "Package395"
+               ReferencedContainer = "container:libraries/Package395/Package395.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E98C88A6EAA7021702480007"
+               BuildableName = "Package396.framework"
+               BlueprintName = "Package396"
+               ReferencedContainer = "container:libraries/Package396/Package396.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8B2B1797DA35AD6B8E299408"
+               BuildableName = "Package397.framework"
+               BlueprintName = "Package397"
+               ReferencedContainer = "container:libraries/Package397/Package397.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FC665EEC0F112CBEF91E0A2A"
+               BuildableName = "Package398.framework"
+               BlueprintName = "Package398"
+               ReferencedContainer = "container:libraries/Package398/Package398.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "035E41D2F2C06FD4BF174DAF"
+               BuildableName = "Package399.framework"
+               BlueprintName = "Package399"
+               ReferencedContainer = "container:libraries/Package399/Package399.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "760DD5DFC699FF69BB751316"
+               BuildableName = "Package400.framework"
+               BlueprintName = "Package400"
+               ReferencedContainer = "container:libraries/Package400/Package400.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BD74D06C91E275AB29E4CB86"
+               BuildableName = "Package401.framework"
+               BlueprintName = "Package401"
+               ReferencedContainer = "container:libraries/Package401/Package401.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "37E6233513479C99892B8A7B"
+               BuildableName = "Package402.framework"
+               BlueprintName = "Package402"
+               ReferencedContainer = "container:libraries/Package402/Package402.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "39FAB9FF2C0662BB73609E99"
+               BuildableName = "Package403.framework"
+               BlueprintName = "Package403"
+               ReferencedContainer = "container:libraries/Package403/Package403.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "663F8DC522FFF97A61344D4A"
+               BuildableName = "Package404.framework"
+               BlueprintName = "Package404"
+               ReferencedContainer = "container:libraries/Package404/Package404.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6393131209F348A29EF0802D"
+               BuildableName = "Package405.framework"
+               BlueprintName = "Package405"
+               ReferencedContainer = "container:libraries/Package405/Package405.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D094BC723A5EE081D69B478A"
+               BuildableName = "Package406.framework"
+               BlueprintName = "Package406"
+               ReferencedContainer = "container:libraries/Package406/Package406.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "243142FD997351D04BC9C9CB"
+               BuildableName = "Package407.framework"
+               BlueprintName = "Package407"
+               ReferencedContainer = "container:libraries/Package407/Package407.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EEB4D091CF292362FD3842E2"
+               BuildableName = "Package408.framework"
+               BlueprintName = "Package408"
+               ReferencedContainer = "container:libraries/Package408/Package408.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1A905D97DCC4BDF4490A975C"
+               BuildableName = "Package409.framework"
+               BlueprintName = "Package409"
+               ReferencedContainer = "container:libraries/Package409/Package409.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "43229E9FC647C6EF31DED3E9"
+               BuildableName = "Package410.framework"
+               BlueprintName = "Package410"
+               ReferencedContainer = "container:libraries/Package410/Package410.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42BFF4E358FA9B6CC1E2A0EE"
+               BuildableName = "Package411.framework"
+               BlueprintName = "Package411"
+               ReferencedContainer = "container:libraries/Package411/Package411.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B6EEDB9CA8651B0A248EEC68"
+               BuildableName = "Package412.framework"
+               BlueprintName = "Package412"
+               ReferencedContainer = "container:libraries/Package412/Package412.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5A94F78638FB639248EE5FCF"
+               BuildableName = "Package413.framework"
+               BlueprintName = "Package413"
+               ReferencedContainer = "container:libraries/Package413/Package413.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5A8A9E1844DACF56AC15C593"
+               BuildableName = "Package414.framework"
+               BlueprintName = "Package414"
+               ReferencedContainer = "container:libraries/Package414/Package414.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3C6BAB1833C501B0416667AD"
+               BuildableName = "Package415.framework"
+               BlueprintName = "Package415"
+               ReferencedContainer = "container:libraries/Package415/Package415.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "50CC1AB567D586683799D3A1"
+               BuildableName = "Package416.framework"
+               BlueprintName = "Package416"
+               ReferencedContainer = "container:libraries/Package416/Package416.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "57FEC92ED62D4944C0E41252"
+               BuildableName = "Package417.framework"
+               BlueprintName = "Package417"
+               ReferencedContainer = "container:libraries/Package417/Package417.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E814294AEDED0E61FF864FFB"
+               BuildableName = "Package418.framework"
+               BlueprintName = "Package418"
+               ReferencedContainer = "container:libraries/Package418/Package418.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "234EA1847B91465BDA55FACD"
+               BuildableName = "Package419.framework"
+               BlueprintName = "Package419"
+               ReferencedContainer = "container:libraries/Package419/Package419.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D81266E60D4A6CFC26CD74F5"
+               BuildableName = "Package420.framework"
+               BlueprintName = "Package420"
+               ReferencedContainer = "container:libraries/Package420/Package420.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F742AEC304264BB4B461F82C"
+               BuildableName = "Package421.framework"
+               BlueprintName = "Package421"
+               ReferencedContainer = "container:libraries/Package421/Package421.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4A8E297A71206BF32187B7D1"
+               BuildableName = "Package422.framework"
+               BlueprintName = "Package422"
+               ReferencedContainer = "container:libraries/Package422/Package422.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BC3938756C54C928635D2E63"
+               BuildableName = "Package423.framework"
+               BlueprintName = "Package423"
+               ReferencedContainer = "container:libraries/Package423/Package423.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2552E020CF473B109DF44BB6"
+               BuildableName = "Package424.framework"
+               BlueprintName = "Package424"
+               ReferencedContainer = "container:libraries/Package424/Package424.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F2F78ADB606B57BAEE2D8432"
+               BuildableName = "Package425.framework"
+               BlueprintName = "Package425"
+               ReferencedContainer = "container:libraries/Package425/Package425.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83DAAC9180310D5FBA31B51B"
+               BuildableName = "Package426.framework"
+               BlueprintName = "Package426"
+               ReferencedContainer = "container:libraries/Package426/Package426.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8D23E7CC37AEDB80EE9752CE"
+               BuildableName = "Package427.framework"
+               BlueprintName = "Package427"
+               ReferencedContainer = "container:libraries/Package427/Package427.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "673A09F8928D3BE21E6BE171"
+               BuildableName = "Package428.framework"
+               BlueprintName = "Package428"
+               ReferencedContainer = "container:libraries/Package428/Package428.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D06F5713E7B643D738A98128"
+               BuildableName = "Package429.framework"
+               BlueprintName = "Package429"
+               ReferencedContainer = "container:libraries/Package429/Package429.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EC2B6DF79B980EFEAE71B33A"
+               BuildableName = "Package430.framework"
+               BlueprintName = "Package430"
+               ReferencedContainer = "container:libraries/Package430/Package430.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0C4D14D907A0278BFB3224E4"
+               BuildableName = "Package431.framework"
+               BlueprintName = "Package431"
+               ReferencedContainer = "container:libraries/Package431/Package431.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2B4BAE30CA7EDEDA5534DFC3"
+               BuildableName = "Package432.framework"
+               BlueprintName = "Package432"
+               ReferencedContainer = "container:libraries/Package432/Package432.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8AD20DCC1C3C15958E3695E2"
+               BuildableName = "Package433.framework"
+               BlueprintName = "Package433"
+               ReferencedContainer = "container:libraries/Package433/Package433.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A2D536127888223D17969052"
+               BuildableName = "Package434.framework"
+               BlueprintName = "Package434"
+               ReferencedContainer = "container:libraries/Package434/Package434.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6E8AD2CD748BA9FD727AAD4E"
+               BuildableName = "Package435.framework"
+               BlueprintName = "Package435"
+               ReferencedContainer = "container:libraries/Package435/Package435.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "514560879485A5BBD3A98BF1"
+               BuildableName = "Package436.framework"
+               BlueprintName = "Package436"
+               ReferencedContainer = "container:libraries/Package436/Package436.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4461B559BA145AEAD4ED969E"
+               BuildableName = "Package437.framework"
+               BlueprintName = "Package437"
+               ReferencedContainer = "container:libraries/Package437/Package437.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7049253FB72980F97B1F42C5"
+               BuildableName = "Package438.framework"
+               BlueprintName = "Package438"
+               ReferencedContainer = "container:libraries/Package438/Package438.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B87FE5CDDA4739D3AFD8FBB2"
+               BuildableName = "Package439.framework"
+               BlueprintName = "Package439"
+               ReferencedContainer = "container:libraries/Package439/Package439.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6DF23095761BE4DFAC7157A2"
+               BuildableName = "Package440.framework"
+               BlueprintName = "Package440"
+               ReferencedContainer = "container:libraries/Package440/Package440.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B60096E366FD48FC506EC8AB"
+               BuildableName = "Package441.framework"
+               BlueprintName = "Package441"
+               ReferencedContainer = "container:libraries/Package441/Package441.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "260F0DED8D1654B78E0FC938"
+               BuildableName = "Package442.framework"
+               BlueprintName = "Package442"
+               ReferencedContainer = "container:libraries/Package442/Package442.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "38E66063F7F8EA7D6E998297"
+               BuildableName = "Package443.framework"
+               BlueprintName = "Package443"
+               ReferencedContainer = "container:libraries/Package443/Package443.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DC182FE423360A1F97DC2D1A"
+               BuildableName = "Package444.framework"
+               BlueprintName = "Package444"
+               ReferencedContainer = "container:libraries/Package444/Package444.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DC884111D27219622EE5571D"
+               BuildableName = "Package445.framework"
+               BlueprintName = "Package445"
+               ReferencedContainer = "container:libraries/Package445/Package445.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E6772C987A93E3B8346AA832"
+               BuildableName = "Package446.framework"
+               BlueprintName = "Package446"
+               ReferencedContainer = "container:libraries/Package446/Package446.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "27ABD777987BB2D8F32D3E33"
+               BuildableName = "Package447.framework"
+               BlueprintName = "Package447"
+               ReferencedContainer = "container:libraries/Package447/Package447.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6E8EB31D29547CD382C25588"
+               BuildableName = "Package448.framework"
+               BlueprintName = "Package448"
+               ReferencedContainer = "container:libraries/Package448/Package448.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "096D2ECF552421B1E4CD7CDD"
+               BuildableName = "Package449.framework"
+               BlueprintName = "Package449"
+               ReferencedContainer = "container:libraries/Package449/Package449.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BAD5EE826408C40EEDF092C8"
+               BuildableName = "Package450.framework"
+               BlueprintName = "Package450"
+               ReferencedContainer = "container:libraries/Package450/Package450.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F09DFD53B1C6C4840B1C33AB"
+               BuildableName = "Package451.framework"
+               BlueprintName = "Package451"
+               ReferencedContainer = "container:libraries/Package451/Package451.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "34CC990914FD1DB3BFFBBC10"
+               BuildableName = "Package452.framework"
+               BlueprintName = "Package452"
+               ReferencedContainer = "container:libraries/Package452/Package452.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "640A896E7A965EB4B063A073"
+               BuildableName = "Package453.framework"
+               BlueprintName = "Package453"
+               ReferencedContainer = "container:libraries/Package453/Package453.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9D855626E098D60AB82363FF"
+               BuildableName = "Package454.framework"
+               BlueprintName = "Package454"
+               ReferencedContainer = "container:libraries/Package454/Package454.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "741B8FA9B61D6D37007CACFC"
+               BuildableName = "Package455.framework"
+               BlueprintName = "Package455"
+               ReferencedContainer = "container:libraries/Package455/Package455.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "700DFC682618A98C00B41C53"
+               BuildableName = "Package456.framework"
+               BlueprintName = "Package456"
+               ReferencedContainer = "container:libraries/Package456/Package456.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "16A2C73B24F37A70C4658E4C"
+               BuildableName = "Package457.framework"
+               BlueprintName = "Package457"
+               ReferencedContainer = "container:libraries/Package457/Package457.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "40A723CC0AF494909FA3A0D2"
+               BuildableName = "Package458.framework"
+               BlueprintName = "Package458"
+               ReferencedContainer = "container:libraries/Package458/Package458.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "053A9655067EAC4B500E6836"
+               BuildableName = "Package459.framework"
+               BlueprintName = "Package459"
+               ReferencedContainer = "container:libraries/Package459/Package459.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2C6958A8BCB6CA5912E0C2C8"
+               BuildableName = "Package460.framework"
+               BlueprintName = "Package460"
+               ReferencedContainer = "container:libraries/Package460/Package460.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8E85E65C3D53884B7AFA2FE4"
+               BuildableName = "Package461.framework"
+               BlueprintName = "Package461"
+               ReferencedContainer = "container:libraries/Package461/Package461.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "020F9CC7E437FD13EDAE60AF"
+               BuildableName = "Package462.framework"
+               BlueprintName = "Package462"
+               ReferencedContainer = "container:libraries/Package462/Package462.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6F29030B09DD8C72F1D842D1"
+               BuildableName = "Package463.framework"
+               BlueprintName = "Package463"
+               ReferencedContainer = "container:libraries/Package463/Package463.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BC6EB61C63659E0DFC55118F"
+               BuildableName = "Package464.framework"
+               BlueprintName = "Package464"
+               ReferencedContainer = "container:libraries/Package464/Package464.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A90D7BAAF2636E447D484E92"
+               BuildableName = "Package465.framework"
+               BlueprintName = "Package465"
+               ReferencedContainer = "container:libraries/Package465/Package465.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "345F52FCE921502A7C34AEBC"
+               BuildableName = "Package466.framework"
+               BlueprintName = "Package466"
+               ReferencedContainer = "container:libraries/Package466/Package466.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DE7B6BFAA57FC03511800555"
+               BuildableName = "Package467.framework"
+               BlueprintName = "Package467"
+               ReferencedContainer = "container:libraries/Package467/Package467.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "62A3AB366D66C5E0F2A16025"
+               BuildableName = "Package468.framework"
+               BlueprintName = "Package468"
+               ReferencedContainer = "container:libraries/Package468/Package468.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9F2F687B700679FB2DDD92EF"
+               BuildableName = "Package469.framework"
+               BlueprintName = "Package469"
+               ReferencedContainer = "container:libraries/Package469/Package469.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7A274B23C667F8F055B3075E"
+               BuildableName = "Package470.framework"
+               BlueprintName = "Package470"
+               ReferencedContainer = "container:libraries/Package470/Package470.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "78A7DA45C73C04DC71576C93"
+               BuildableName = "Package471.framework"
+               BlueprintName = "Package471"
+               ReferencedContainer = "container:libraries/Package471/Package471.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BECD479CE2637BCFC0E3D7CF"
+               BuildableName = "Package472.framework"
+               BlueprintName = "Package472"
+               ReferencedContainer = "container:libraries/Package472/Package472.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "88784369CDA5D43BE6AC9B44"
+               BuildableName = "Package473.framework"
+               BlueprintName = "Package473"
+               ReferencedContainer = "container:libraries/Package473/Package473.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "066790669ECE3ECD20AFEB00"
+               BuildableName = "Package474.framework"
+               BlueprintName = "Package474"
+               ReferencedContainer = "container:libraries/Package474/Package474.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "07C50747E9CD8C2B7E76C26A"
+               BuildableName = "Package475.framework"
+               BlueprintName = "Package475"
+               ReferencedContainer = "container:libraries/Package475/Package475.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6229A10F45916DEFB6064BE9"
+               BuildableName = "Package476.framework"
+               BlueprintName = "Package476"
+               ReferencedContainer = "container:libraries/Package476/Package476.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2073F14CB64ED655056C6B89"
+               BuildableName = "Package477.framework"
+               BlueprintName = "Package477"
+               ReferencedContainer = "container:libraries/Package477/Package477.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D22B56884F5C8FEA2A1AEFE2"
+               BuildableName = "Package478.framework"
+               BlueprintName = "Package478"
+               ReferencedContainer = "container:libraries/Package478/Package478.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "87A07559F9127C81D41B8B05"
+               BuildableName = "Package479.framework"
+               BlueprintName = "Package479"
+               ReferencedContainer = "container:libraries/Package479/Package479.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "137DE6EA7AEE08A3A0C47A63"
+               BuildableName = "Package480.framework"
+               BlueprintName = "Package480"
+               ReferencedContainer = "container:libraries/Package480/Package480.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "18731E4A9F9539C5D691E39C"
+               BuildableName = "Package481.framework"
+               BlueprintName = "Package481"
+               ReferencedContainer = "container:libraries/Package481/Package481.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCD2F5B4B3FE7E59DD8123EF"
+               BuildableName = "Package482.framework"
+               BlueprintName = "Package482"
+               ReferencedContainer = "container:libraries/Package482/Package482.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F8A17D5BAFF5BEF01BF307B1"
+               BuildableName = "Package483.framework"
+               BlueprintName = "Package483"
+               ReferencedContainer = "container:libraries/Package483/Package483.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "93B05B31FFFC3B7971899F80"
+               BuildableName = "Package484.framework"
+               BlueprintName = "Package484"
+               ReferencedContainer = "container:libraries/Package484/Package484.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8DF3481D82D03E0260FEC7AF"
+               BuildableName = "Package485.framework"
+               BlueprintName = "Package485"
+               ReferencedContainer = "container:libraries/Package485/Package485.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A64F2D96E3860D5CBFD6C69B"
+               BuildableName = "Package486.framework"
+               BlueprintName = "Package486"
+               ReferencedContainer = "container:libraries/Package486/Package486.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8DB4AC1C72BEEB36A131E654"
+               BuildableName = "Package487.framework"
+               BlueprintName = "Package487"
+               ReferencedContainer = "container:libraries/Package487/Package487.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "48CDFFFA21BD549D7860A3BD"
+               BuildableName = "Package488.framework"
+               BlueprintName = "Package488"
+               ReferencedContainer = "container:libraries/Package488/Package488.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "04403390F7E7C035E962993F"
+               BuildableName = "Package489.framework"
+               BlueprintName = "Package489"
+               ReferencedContainer = "container:libraries/Package489/Package489.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "93BD153923CA69047A067050"
+               BuildableName = "Package490.framework"
+               BlueprintName = "Package490"
+               ReferencedContainer = "container:libraries/Package490/Package490.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "37D111C468A2F66ED5F02BD5"
+               BuildableName = "Package491.framework"
+               BlueprintName = "Package491"
+               ReferencedContainer = "container:libraries/Package491/Package491.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "ECC6B6A610B1A7D31A397131"
+               BuildableName = "Package492.framework"
+               BlueprintName = "Package492"
+               ReferencedContainer = "container:libraries/Package492/Package492.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C3C9DAFC6A509B4D748B4C2F"
+               BuildableName = "Package493.framework"
+               BlueprintName = "Package493"
+               ReferencedContainer = "container:libraries/Package493/Package493.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "01014B96CBBEE41FE34DC756"
+               BuildableName = "Package494.framework"
+               BlueprintName = "Package494"
+               ReferencedContainer = "container:libraries/Package494/Package494.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4CB7E3E27ABCA34B516495EB"
+               BuildableName = "Package495.framework"
+               BlueprintName = "Package495"
+               ReferencedContainer = "container:libraries/Package495/Package495.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FBD73C0ECE658D96E9E18F7A"
+               BuildableName = "Package496.framework"
+               BlueprintName = "Package496"
+               ReferencedContainer = "container:libraries/Package496/Package496.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "82F0D5AD8168A1F99C0440E3"
+               BuildableName = "Package497.framework"
+               BlueprintName = "Package497"
+               ReferencedContainer = "container:libraries/Package497/Package497.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B9DFF3DC2F830E36FCDAA21F"
+               BuildableName = "Package498.framework"
+               BlueprintName = "Package498"
+               ReferencedContainer = "container:libraries/Package498/Package498.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B1FC8700979A1BAB10562BC7"
+               BuildableName = "Package499.framework"
+               BlueprintName = "Package499"
+               ReferencedContainer = "container:libraries/Package499/Package499.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A91760CA0A97BA7E0FF1B8CB"
+               BuildableName = "Package500.framework"
+               BlueprintName = "Package500"
+               ReferencedContainer = "container:libraries/Package500/Package500.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "02EECBF9464E7B5899BBD952"
+               BuildableName = "TargetX.app"
+               BlueprintName = "TargetX"
+               ReferencedContainer = "container:TestSPM-Tuist.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B42D1E4FD0BAE2B8269B82DE"
+            BuildableName = "Package367.framework"
+            BlueprintName = "Package367"
+            ReferencedContainer = "container:libraries/Package367/Package367.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B42D1E4FD0BAE2B8269B82DE"
+            BuildableName = "Package367.framework"
+            BlueprintName = "Package367"
+            ReferencedContainer = "container:libraries/Package367/Package367.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
